@@ -6,7 +6,7 @@ metadata:
   labels:
     app: service-1
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: service-1
@@ -29,8 +29,7 @@ metadata:
   name: service-1
 spec:
   ports:
-  - name: https 
-    port: 5000
+  - port: 5000
     protocol: TCP
     targetPort: 5000
   selector:

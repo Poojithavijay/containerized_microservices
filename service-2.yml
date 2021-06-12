@@ -6,7 +6,7 @@ metadata:
   labels:
     app: service-2
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: service-2
