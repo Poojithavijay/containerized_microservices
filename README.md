@@ -1,4 +1,4 @@
-# Containerized Microservice Mesh Development & Depolyment using Python, Flask & Kubernetes
+# Containerized Microservice Mesh Development & Deployment using Python, Flask & Kubernetes
 
 ## Tasks Implemented
 
