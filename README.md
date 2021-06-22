@@ -2,7 +2,7 @@
 
 ## Tasks Implemented
 
-1. Your task is to build four simple microservices and wire them up in a Kubernetes cluster, e.g. using [Link](https://minikube.sigs.k8s.io/docs/start/).
+1. Build four simple microservices and wire them up in a Kubernetes cluster, e.g. using [Link](https://minikube.sigs.k8s.io/docs/start/).
 
 2. The first microservice provides a simple web interface and allows the entry of a password. This password is sent to all the other microservices and the responses are displayed on this HTML page. 
 
